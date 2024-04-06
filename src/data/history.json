@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Google",
+    "startDate": "Sep, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": ["Worked on Google Workspace", "Created a company-wide public API"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Salesforce",
+    "startDate": "May, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": ["Worked on Marketing Cloud", "Trained a code generator and contributed to the company's AI initiatives"],
+    "imageSrc": "history/salesforce.png"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "AWS",
+    "startDate": "Sep, 2022",
+    "endDate": "Dec, 2022",
+    "experiences": [
+      "Worked on AWS Lambda",
+      "Implemented an EC2 tracker for all regions"
+    ],
+    "imageSrc": "history/aws.png"
+  }
+]
